@@ -1,3 +1,5 @@
 icool resolusi
 -Menjadi web apps/mobile apps ternama di Indonesia
 -web apps/mobile apps minim bug
+-memiliki banyak client
+-kolaborasi dengan banyak expert
